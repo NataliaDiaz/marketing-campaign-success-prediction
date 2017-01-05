@@ -11,11 +11,11 @@ All columns are features, and the outcome variable Y is column nr. 3
 
 - We describe Y (column 3) in terms of the count, standard deviation, mean and median values and the general shape and whether we can say it can be considered a normal distribution.
 
-- To find if other columns correlated to each other, or to column 3, we perform correlation analysis
+- To find if other columns correlated to each other, or to column 3, we perform correlation analysis.
 
--I discuss regression models pros and cons
+- I discuss regression models pros and cons
 
--I discuss how to validate the accuracy and validate the robustness of your model
+- I discuss how to validate the accuracy and validate the robustness of your model
 
 NOTE: it is a blind dataset, the features' descriptions are unknown.
 
